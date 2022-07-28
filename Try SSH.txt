@@ -1,2 +1,17 @@
 Let's use github by SSH
 How to change code in Github
+
+Option 1:
+1. git clone link_ssh
+2. git status
+3. git add .
+4. git commit -m "your message"
+5. git push origin main
+
+Option 2:
+1. git init
+2. git status
+3. git add .
+4. git commit -m "your message"
+5. copy paste line 4
+6. git push origin master
