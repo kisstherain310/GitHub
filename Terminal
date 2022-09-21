@@ -1,7 +1,7 @@
 Let's use github by SSH
 How to change code in Github
 
-Option 1: (project of company)
+Option 1: (pull project)
 1. git clone link_ssh
 2. git status
 3. git add .
